@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Enversoft</title>
+
+    <link rel="stylesheet" type="text/css" href="styles/bootstrap.min.css" />
+</head>
+<body ng-app="supplierApp" ng-controller="SupplierController">
+    <hr />
+    <div class="container"  ng-hide="hideSupplier">
+        <div class="input-group mb-3">
+            <label class="input-group-text" for="inputGroupSelect01">Search By Name:</label>
+            <input type="text" name="txtSearch" ng-model="searchSupplier" />
+        </div>
+        <button ng-hide="hideSupplier" class="btn btn-primary" ng-click="addSupplier()">Add Supplier</button>
+    </div>
+    <div ng-hide="hideSupplier" class="container">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Code</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Telephone Number</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="supplier in suppliers | filter:searchSupplier">
+                    <td>{{supplier.code}}</td>
+                    <td>{{supplier.name}}</td>
+                    <td>{{supplier.telephoneNo}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="container" ng-show="hideSupplier">
+        <form ng-submit="createSupplier()">
+            <div class="mb-3">
+                <label for="txtCode" class="form-label">Code</label>
+                <input type="number" class="form-control" id="txtCode" aria-describedby="codeHelp" ng-model="supplierCode" required>
+                <div id="codeHelp" class="form-text">Please enter the supplier code.</div>
+            </div>
+            <div class="mb-3">
+                <label for="txtName" class="form-label">Name</label>
+                <input type="text" class="form-control" id="txtName" ng-model="supplierName">
+            </div>
+            <div class="mb-3">
+                <label for="txtTelephone" class="form-label">Telephone Number</label>
+                <input type="text" class="form-control" id="txtTelephone" ng-model="supplierTelephone">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+    <script type="text/javascript" src="scripts/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="scripts/angular.min.js"></script>
+    <script type="text/javascript" src="scripts/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="scripts/app.js"></script>
+</body>
+</html>

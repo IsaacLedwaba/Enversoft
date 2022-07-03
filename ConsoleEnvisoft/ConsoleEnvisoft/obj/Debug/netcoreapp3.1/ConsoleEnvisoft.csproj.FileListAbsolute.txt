@@ -1,0 +1,13 @@
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\bin\Debug\netcoreapp3.1\ConsoleEnvisoft.exe
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\bin\Debug\netcoreapp3.1\ConsoleEnvisoft.deps.json
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\bin\Debug\netcoreapp3.1\ConsoleEnvisoft.runtimeconfig.json
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\bin\Debug\netcoreapp3.1\ConsoleEnvisoft.runtimeconfig.dev.json
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\bin\Debug\netcoreapp3.1\ConsoleEnvisoft.dll
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\bin\Debug\netcoreapp3.1\ConsoleEnvisoft.pdb
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\obj\Debug\netcoreapp3.1\ConsoleEnvisoft.csproj.AssemblyReference.cache
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\obj\Debug\netcoreapp3.1\ConsoleEnvisoft.AssemblyInfoInputs.cache
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\obj\Debug\netcoreapp3.1\ConsoleEnvisoft.AssemblyInfo.cs
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\obj\Debug\netcoreapp3.1\ConsoleEnvisoft.csproj.CoreCompileInputs.cache
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\obj\Debug\netcoreapp3.1\ConsoleEnvisoft.dll
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\obj\Debug\netcoreapp3.1\ConsoleEnvisoft.pdb
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\ConsoleEnvisoft\ConsoleEnvisoft\obj\Debug\netcoreapp3.1\ConsoleEnvisoft.genruntimeconfig.cache

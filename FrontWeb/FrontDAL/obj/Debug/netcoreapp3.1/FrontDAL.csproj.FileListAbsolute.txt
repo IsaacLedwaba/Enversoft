@@ -1,0 +1,11 @@
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\FrontWeb\FrontDAL\bin\Debug\netcoreapp3.1\FrontDAL.deps.json
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\FrontWeb\FrontDAL\bin\Debug\netcoreapp3.1\FrontDAL.runtimeconfig.json
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\FrontWeb\FrontDAL\bin\Debug\netcoreapp3.1\FrontDAL.runtimeconfig.dev.json
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\FrontWeb\FrontDAL\bin\Debug\netcoreapp3.1\FrontDAL.dll
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\FrontWeb\FrontDAL\bin\Debug\netcoreapp3.1\FrontDAL.pdb
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\FrontWeb\FrontDAL\obj\Debug\netcoreapp3.1\FrontDAL.AssemblyInfoInputs.cache
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\FrontWeb\FrontDAL\obj\Debug\netcoreapp3.1\FrontDAL.AssemblyInfo.cs
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\FrontWeb\FrontDAL\obj\Debug\netcoreapp3.1\FrontDAL.csproj.CoreCompileInputs.cache
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\FrontWeb\FrontDAL\obj\Debug\netcoreapp3.1\FrontDAL.dll
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\FrontWeb\FrontDAL\obj\Debug\netcoreapp3.1\FrontDAL.pdb
+C:\Users\iledw\OneDrive\Documents\Visual Studio 2019\Projects\FrontWeb\FrontDAL\obj\Debug\netcoreapp3.1\FrontDAL.genruntimeconfig.cache
